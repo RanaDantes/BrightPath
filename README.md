@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <img src="static_github/images/Github_logo_white.png?raw=true" alt="Writers Block" width="400"/>
+  <img src="static_github/images/BrightPath.png?raw=true" alt="Writers Block" width="400"/>
 </div>
 
 ---
