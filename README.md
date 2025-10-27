@@ -5,10 +5,18 @@
 
 ---
 ### Abstract
-> The name of the app is `Writers Block`. It is a role-base web application using Django (backend)
+> The name of the app is `BrightPath`. It is a role-base web application using Django (backend)
 > and React.js (frontend), designed to manage users and content creation with different access levels.
-> The application supports three primary roles: `Admin`, `Manager`, and `Writer`. Each role has specific
+> The application supports three primary roles: `Admin`, `Manager`, and `Instructor`. Each role has specific
 > permissions and capabilities:
+> 1. Admin - oversee system operations and user management.  
+> 2. Manager - supervise content and instructor activities.  
+> 3. Instructors - create and manage learning materails.  
+>
+> BrightPath is an innovative e-learning platform that empowers learners and instructors in a seamless digital environment.
+> It offers a structured pathway for acquiring knowledge, enhancing skills, and achieving personal or professional growth.
+> By leveraging modern web technologies and user-centric design, BrightPath ensures a flexible, scalable, and engaging platform
+> for lifelong learning, emphasizing personalized learning experience, intuitive navigation, and robust role-base access.
 
 ---
 ### 🕹️ Tech Stack
